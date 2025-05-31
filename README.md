@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://sachinchandra2022.github.io/Portfolio-Website/" target="_blank">
-    <img src="https://drive.google.com/file/d/1dOOsG3DSKUNew7CtdX43-a2CpHRYy5kH/view?usp=sharing" alt="Sachin Chandra Logo" width="150" style="border-radius: 50%;" />
+    <img src="logo.png" alt="Sachin Chandra Logo" width="150" style="border-radius: 50%;" />
   </a>
 </p>
 
