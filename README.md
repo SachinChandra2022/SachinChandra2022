@@ -87,7 +87,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sachin_Chandra/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
   </a>
 </p>
 
