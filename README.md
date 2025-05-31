@@ -1,36 +1,55 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sachin%20Chandra%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Sachin+Chandra+🚀;AI+Enthusiast+%7C+Full+Stack+Learner+%7C+DSA+Geek;Let's+build+cool+things+together!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Topic]**
-- 👯 I’m looking to collaborate on **Open Source / Projects**
-- 💬 Ask me about **[Languages/Frameworks]**
-- 📫 How to reach me: **[your.email@example.com]**
-- 🧠 Fun fact: **[Something quirky about you]**
+- 🔭 I’m currently working on **Smart Search Algorithms**
+- 🌱 Learning **MLOps**, **RAG**, **Gemini API**
+- 💡 Exploring **AI-driven automation**
+- 👯 Looking to collaborate on **Open Source & AI Projects**
+- 📫 Reach me at: **sachinchandra.work@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,tailwind,git,github,docker,linux,aws" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,flask,django,git,linux,postgresql,aws,html,css,js,react" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Expertise & Tools
+
+- 🧠 **ML & Data Science**: EDA, Feature Engineering, Model Optimization, NLP  
+- 📊 **ML Libraries**: Pandas, Scikit-Learn, NLTK, Matplotlib  
+- 🗄️ **Databases**: PostgreSQL, Snowflake, Redshift  
+- 🔄 **ETL Workflows**: Full Refresh & Incremental Syncs (Sling)  
+- 🧰 **Core CS**: OS, DBMS, CN, Software Design, OOPS  
+- ⚙️ **Tools**: Git, Unix, Linux  
+- 🤖 **GenAI**: RAG Pipelines, Gemini API  
+- 📈 **DSA**: 500+ problems (Trees, Graphs, Stacks, Arrays)
+
+---
+
+### 📈 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SachinChandra7&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinChandra7&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinChandra7&theme=react-dark&bg_color=1F222E&hide_border=true" />
 </p>
 
 ---
@@ -38,25 +57,32 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=dracula&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinChandra7&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-</p>
-
----
-
-### 💡 Quote of the Day
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <a href="https://www.linkedin.com/in/sachin-chandra-442349246/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sachinchandra.work@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
 </p>
 
 ---
+
+### 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
