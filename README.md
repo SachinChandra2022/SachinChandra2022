@@ -18,6 +18,11 @@
 - 👯 Looking to collaborate on **Open Source & AI Projects**
 - 📫 Reach me at: **sachinchandra.work@gmail.com**
 
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### ⚙️ Tech Stack
