@@ -44,12 +44,12 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SachinChandra7&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinChandra7&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SachinChandra2022&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinChandra2022&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinChandra7&theme=react-dark&bg_color=1F222E&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinChandra2022&theme=react-dark&bg_color=1F222E&hide_border=true" />
 </p>
 
 ---
