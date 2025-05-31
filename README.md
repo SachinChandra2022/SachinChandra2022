@@ -17,18 +17,20 @@
 - 💡 Exploring **AI-driven automation**
 - 👯 Looking to collaborate on **Open Source & AI Projects**
 - 📫 Reach me at: **sachinchandra.work@gmail.com**
-
-<p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-</p>
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,flask,django,git,linux,postgresql,aws,html,css,js,react" />
+</p>
+---
+
+### 📄 Resume
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
 </p>
 
 ---
