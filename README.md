@@ -10,6 +10,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://your-logo-image-url.com/logo.png" alt="Sachin Chandra Logo" width="150" style="border-radius: 50%;" />
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Smart Search Algorithms**
