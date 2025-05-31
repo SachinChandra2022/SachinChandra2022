@@ -85,6 +85,10 @@
   <a href="mailto:sachinchandra.work@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sachin_Chandra/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
+  </a>
 </p>
 
 ---
