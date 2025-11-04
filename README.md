@@ -34,9 +34,9 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,flask,django,powershell,git,linux,postgresql,aws,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,flask,git,linux,postgresql,aws,html,css,js,react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" />
 </p>
-
 
 
 ---
