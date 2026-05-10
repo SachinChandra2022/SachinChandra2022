@@ -23,11 +23,6 @@
 - 💡 Exploring **AI-driven automation**
 - 👯 Looking to collaborate on **Open Source & AI Projects**
 - 📫 Reach me at: **sachinchandra.work@gmail.com**
-<p align="center">
-  <a href="https://github.com/SachinChandra2022/Resume/blob/main/Sachin%20Chandra%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-</p>
 
 ---
 
